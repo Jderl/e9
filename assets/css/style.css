@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 1px dotted red;
+    font-family: arial, verdana, sans-serif;
+}
+body{
+    background-image: url(assets/images/rt-z.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#container{
+   /* background-color: cyan; */
+    margin:10px;
+    width:877px;
+    height:1636px;
+    padding-top: 10px;
+}
+#header{
+   /*background-color:beige;*/
+   width: 857px;
+   height: 70px;
+   margin: 0px 10px 10px 10px;
+}
+img, ul li{
+    display: inline-block;
+}
+#logo{
+    background-color: blue;
+    width: 330px;
+    height: 68px;
+ }
+ 
